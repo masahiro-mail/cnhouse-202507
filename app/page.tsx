@@ -22,7 +22,7 @@ export default function Home() {
               <p className="text-base sm:text-lg md:text-xl mb-4 md:mb-6 font-medium">
                 「今年の夏に、CNPトレカの思い出を作りたい！」<br />
                 「大好きなCNPトレカに没頭したい！」<br />
-                「7月の大会の練習を思い切りやりたい！」
+                「7月の大会に向けて、たくさん練習したい！」
               </p>
               <p className="text-sm sm:text-base md:text-lg mb-4 md:mb-6">
                 そんなあなたに、とっておきのお知らせです！
@@ -74,7 +74,7 @@ export default function Home() {
               <div className="text-4xl mb-4 text-center animate-bounce">🍖</div>
               <h3 className="text-xl font-bold mb-3 text-center text-red-700">夜はみんなでBBQ！</h3>
               <p className="text-gray-700">
-                1日目の夜は、あのイケハヤさんとBBQの予定🥩（イケハヤさん！お世話になります！🙇‍♂️！）満点の星空の下で、美味しいお肉と楽しいおしゃべりを満喫しましょう！（雨天時はCNハウスでごはん会になります☔️）
+                1日目の夜は、イケハヤさんとBBQの予定🥩（イケハヤさん！お世話になります！🙇‍♂️）満点の星空の下で、美味しいお肉と楽しいおしゃべりを満喫しましょう！（雨天時はCNハウスでごはん会になります☔️）
               </p>
             </div>
 
