@@ -140,15 +140,15 @@ export default function Home() {
                 </div>
                 <div className="flex items-start space-x-4">
                   <span className="font-bold text-orange-600 min-w-[80px]">15:00頃</span>
-                  <span>CNハウスに到着！</span>
+                  <span className="font-bold text-gray-700">CNハウスに到着！</span>
                 </div>
                 <div className="flex items-start space-x-4">
                   <span className="font-bold text-orange-600 min-w-[80px]">夕方まで</span>
-                  <span>早速トレカで遊ぶもよし！のどかな町を散策するもよし！</span>
+                  <span className="font-bold text-gray-700">早速トレカで遊ぶもよし！のどかな町を散策するもよし！</span>
                 </div>
                 <div className="flex items-start space-x-4">
                   <span className="font-bold text-orange-600 min-w-[80px]">夜ごはん</span>
-                  <span>☀️晴れたらイケハヤさん宅でBBQ！ / ☔️雨ならCNハウスでワイワイごはん会！</span>
+                  <span className="font-bold text-gray-700">☀️晴れたらイケハヤさん宅でBBQ！ / ☔️雨ならCNハウスでワイワイごはん会！</span>
                 </div>
               </div>
             </div>
@@ -159,19 +159,19 @@ export default function Home() {
               <div className="space-y-4">
                 <div className="flex items-start space-x-4">
                   <span className="font-bold text-orange-600 min-w-[80px]">午前</span>
-                  <span>朝ごはんを食べたら、本山町プラチナセンターへ移動！</span>
+                  <span className="font-bold text-gray-700">朝ごはんを食べたら、本山町プラチナセンターへ移動！</span>
                 </div>
                 <div className="flex items-start space-x-4">
                   <span className="font-bold text-orange-600 min-w-[80px]">9:00～</span>
-                  <span>思う存分トレカタイム！🔥</span>
+                  <span className="font-bold text-gray-700">思う存分トレカタイム！🔥</span>
                 </div>
                 <div className="flex items-start space-x-4">
                   <span className="font-bold text-orange-600 min-w-[80px]">～</span>
-                  <span>自由解散（最大17:00まで遊べます！）</span>
+                  <span className="font-bold text-gray-700">自由解散（最大17:00まで遊べます！）</span>
                 </div>
                 <div className="flex items-start space-x-4">
                   <span className="font-bold text-orange-600 min-w-[80px]">14:00頃</span>
-                  <span>大阪組は出発予定。また会う日まで！</span>
+                  <span className="font-bold text-gray-700">大阪組は出発予定。また会う日まで！</span>
                 </div>
               </div>
             </div>
@@ -192,7 +192,7 @@ export default function Home() {
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
               <div className="bg-white rounded-2xl p-6 shadow-lg">
                 <h3 className="text-xl font-bold text-gray-700 mb-4 text-center">現地組</h3>
-                <ul className="space-y-2 text-center">
+                <ul className="space-y-2 text-center text-gray-700">
                   <li>イケハヤさん</li>
                   <li>リツトさん</li>
                   <li>おおみきりんさん</li>
