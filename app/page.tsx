@@ -101,17 +101,17 @@ export default function Home() {
             <div className="space-y-6">
               <div>
                 <h3 className="text-xl font-bold text-orange-600 mb-2">イベント名</h3>
-                <p className="text-lg">【7/12-13 ワイガヤ😊CNPトレカ合宿@CNハウス】</p>
+                <p className="text-lg text-gray-700">【7/12-13 ワイガヤ😊CNPトレカ合宿@CNハウス】</p>
               </div>
               
               <div>
                 <h3 className="text-xl font-bold text-orange-600 mb-2">日程</h3>
-                <p className="text-lg">2025年7月12日(土) ～ 13日(日)</p>
+                <p className="text-lg font-bold text-gray-700">2025年7月12日(土) ～ 13日(日)</p>
               </div>
               
               <div>
                 <h3 className="text-xl font-bold text-orange-600 mb-2">場所</h3>
-                <div className="space-y-2">
+                <div className="space-y-2 text-gray-700">
                   <p><strong>宿泊先：</strong> クリプトニンジャハウス (高知県長岡郡本山町) ※宿泊費無料！ただしレンタル布団代が別途必要かも</p>
                   <p><strong>プレイ場所：</strong> 本山町プラチナセンター (7/13終日予約済み)</p>
                   <p className="text-sm text-gray-600">〒781-3601 高知県長岡郡本山町本山569-1</p>
@@ -136,7 +136,7 @@ export default function Home() {
               <div className="space-y-4">
                 <div className="flex items-start space-x-4">
                   <span className="font-bold text-orange-600 min-w-[80px]">10:00頃</span>
-                  <span>大阪組 出発🚗 → 途中でのんびりランチ♪</span>
+                  <span className="font-bold text-gray-700">大阪組 出発🚗 → 途中でのんびりランチ♪</span>
                 </div>
                 <div className="flex items-start space-x-4">
                   <span className="font-bold text-orange-600 min-w-[80px]">15:00頃</span>
@@ -191,7 +191,7 @@ export default function Home() {
             
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
               <div className="bg-white rounded-2xl p-6 shadow-lg">
-                <h3 className="text-xl font-bold text-green-600 mb-4 text-center">現地組</h3>
+                <h3 className="text-xl font-bold text-gray-700 mb-4 text-center">現地組</h3>
                 <ul className="space-y-2 text-center">
                   <li>イケハヤさん</li>
                   <li>リツトさん</li>
@@ -202,14 +202,14 @@ export default function Home() {
               
               <div className="bg-white rounded-2xl p-6 shadow-lg">
                 <h3 className="text-xl font-bold text-blue-600 mb-4 text-center">東京組</h3>
-                <ul className="space-y-2 text-center">
+                <ul className="space-y-2 text-gray-700 text-center">
                   <li>ryujiさん</li>
                 </ul>
               </div>
               
               <div className="bg-white rounded-2xl p-6 shadow-lg">
                 <h3 className="text-xl font-bold text-orange-600 mb-4 text-center">大阪組</h3>
-                <ul className="space-y-2 text-center">
+                <ul className="space-y-2  text-gray-700 text-center">
                   <li>ヒヨコロさん</li>
                   <li>まつこーにさん</li>
                   <li>図解師★ウルフ</li>
