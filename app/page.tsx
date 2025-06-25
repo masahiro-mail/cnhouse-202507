@@ -136,7 +136,7 @@ export default function Home() {
               <div className="space-y-4">
                 <div className="flex items-start space-x-4">
                   <span className="font-bold text-orange-600 min-w-[80px]">10:00頃</span>
-                  <span className="font-bold text-gray-700">大阪組 出発🚗 → 途中でのんびりランチ♪</span>
+                  <span className="text-gray-700">大阪組 出発🚗 → 途中でのんびりランチ♪</span>
                 </div>
                 <div className="flex items-start space-x-4">
                   <span className="font-bold text-orange-600 min-w-[80px]">15:00頃</span>
