@@ -20,8 +20,9 @@ export default function Home() {
             
             <div className="bg-white/90 text-gray-800 rounded-2xl p-6 md:p-8 shadow-lg backdrop-blur-sm">
               <p className="text-base sm:text-lg md:text-xl mb-4 md:mb-6 font-medium">
-                「今年の夏休み、最高の思い出を作りたい！」<br />
-                「大好きなCNPトレカに没頭したい！」
+                「今年の夏に、CNPトレカの思い出を作りたい！」<br />
+                「大好きなCNPトレカに没頭したい！」<br />
+                「7月の大会の練習を思い切りやりたい！」
               </p>
               <p className="text-sm sm:text-base md:text-lg mb-4 md:mb-6">
                 そんなあなたに、とっておきのお知らせです！
@@ -71,9 +72,9 @@ export default function Home() {
             {/* Feature 3 */}
             <div className="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300 border-2 border-transparent hover:border-red-200">
               <div className="text-4xl mb-4 text-center animate-bounce">🍖</div>
-              <h3 className="text-xl font-bold mb-3 text-center text-red-700">夜はみんなでBBQ！（晴れたら）</h3>
+              <h3 className="text-xl font-bold mb-3 text-center text-red-700">夜はみんなでBBQ！</h3>
               <p className="text-gray-700">
-                1日目の夜は、イケハヤさんのお宅でBBQを予定しています！満点の星空の下で、美味しいお肉と楽しいおしゃべりを満喫しましょう！（雨天時はCNハウスでごはん会になります☔️）
+                1日目の夜は、あのイケハヤさんとBBQの予定🥩（イケハヤさん！お世話になります！🙇‍♂️！）満点の星空の下で、美味しいお肉と楽しいおしゃべりを満喫しましょう！（雨天時はCNハウスでごはん会になります☔️）
               </p>
             </div>
 
@@ -111,7 +112,7 @@ export default function Home() {
               <div>
                 <h3 className="text-xl font-bold text-orange-600 mb-2">場所</h3>
                 <div className="space-y-2">
-                  <p><strong>宿泊先：</strong> クリプトニンジャハウス (高知県長岡郡本山町) ※宿泊費無料！ただし人数によってはレンタル布団代が必要かも）</p>
+                  <p><strong>宿泊先：</strong> クリプトニンジャハウス (高知県長岡郡本山町) ※宿泊費無料！ただしレンタル布団代が別途必要かも</p>
                   <p><strong>プレイ場所：</strong> 本山町プラチナセンター (7/13終日予約済み)</p>
                   <p className="text-sm text-gray-600">〒781-3601 高知県長岡郡本山町本山569-1</p>
                 </div>
@@ -229,7 +230,8 @@ export default function Home() {
             
             <div className="bg-white/90 text-gray-800 rounded-2xl p-8 shadow-lg backdrop-blur-sm mb-8">
               <p className="text-lg mb-6">
-                お布団は人数に合わせてレンタルも可能なので、ご安心ください。<br />
+                お布団は人数に合わせて不足分レンタル予定です。<br />
+                大阪からの参加者が多ければ、レンタカーなどの交通手段も検討します🚗<br />
                 その他、必要なものなど詳細は参加希望の方へ個別にご連絡します！
               </p>
               
