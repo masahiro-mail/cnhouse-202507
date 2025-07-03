@@ -204,7 +204,7 @@ export default function Home() {
                 <h3 className="text-xl font-bold text-blue-600 mb-4 text-center">現地合流組</h3>
                 <ul className="space-y-2 text-gray-700 text-center">
                   <li>ryujiさん</li>
-                  <li>モカヤモさん</li>
+                  <li>もかやもさん</li>
                   <li>かまさん</li>
                   <li>まつりかさん(7/13のみ）</li>
                 </ul>
