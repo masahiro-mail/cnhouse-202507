@@ -74,7 +74,7 @@ export default function Home() {
               <div className="text-4xl mb-4 text-center animate-bounce">🍖</div>
               <h3 className="text-xl font-bold mb-3 text-center text-red-700">夜はみんなでBBQ！</h3>
               <p className="text-gray-700">
-                1日目の夜は、イケハヤさんとBBQの予定🥩（イケハヤさん！お世話になります！🙇‍♂️）満点の星空の下で、美味しいお肉と楽しいおしゃべりを満喫しましょう！（雨天時はCNハウスでごはん会になります☔️）
+                1日目の夜は、イケハヤさんとBBQの予定🥩（イケハヤさん！お世話になります！🙇‍♂️）満点の星空の下で、美味しいお肉と楽しいおしゃべりを満喫しましょう！
               </p>
             </div>
 
@@ -135,11 +135,11 @@ export default function Home() {
               <h3 className="text-2xl font-bold text-blue-600 mb-6">◯ 1日目：7月12日(土)</h3>
               <div className="space-y-4">
                 <div className="flex items-start space-x-4">
-                  <span className="font-bold text-orange-600 min-w-[80px]">10:00頃</span>
+                  <span className="font-bold text-orange-600 min-w-[80px]">9:00頃</span>
                   <span className="text-gray-700">大阪組 出発🚗 → 途中でのんびりランチ♪</span>
                 </div>
                 <div className="flex items-start space-x-4">
-                  <span className="font-bold text-orange-600 min-w-[80px]">15:00頃</span>
+                  <span className="font-bold text-orange-600 min-w-[80px]">14:00頃</span>
                   <span className="font-bold text-gray-700">CNハウスに到着！</span>
                 </div>
                 <div className="flex items-start space-x-4">
@@ -148,7 +148,7 @@ export default function Home() {
                 </div>
                 <div className="flex items-start space-x-4">
                   <span className="font-bold text-orange-600 min-w-[80px]">夜ごはん</span>
-                  <span className="font-bold text-gray-700">☀️晴れたらイケハヤさん宅でBBQ！ / ☔️雨ならCNハウスでワイワイごはん会！</span>
+                  <span className="font-bold text-gray-700">☀️晴れたらみんなでBBQ！ / ☔️雨ならCNハウスでワイワイごはん会！</span>
                 </div>
               </div>
             </div>
@@ -201,17 +201,21 @@ export default function Home() {
               </div>
               
               <div className="bg-white rounded-2xl p-6 shadow-lg">
-                <h3 className="text-xl font-bold text-blue-600 mb-4 text-center">東京組</h3>
+                <h3 className="text-xl font-bold text-blue-600 mb-4 text-center">現地合流組</h3>
                 <ul className="space-y-2 text-gray-700 text-center">
                   <li>ryujiさん</li>
+                  <li>モカヤモさん</li>
+                  <li>かまさん</li>
+                  <li>まつりかさん(7/13のみ）</li>
                 </ul>
               </div>
-              
+
               <div className="bg-white rounded-2xl p-6 shadow-lg">
                 <h3 className="text-xl font-bold text-orange-600 mb-4 text-center">大阪組</h3>
                 <ul className="space-y-2  text-gray-700 text-center">
                   <li>ヒヨコロさん</li>
                   <li>まつこーにさん</li>
+                  <li>林さん</li>
                   <li>図解師★ウルフ</li>
                 </ul>
               </div>
