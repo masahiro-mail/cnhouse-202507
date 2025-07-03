@@ -229,7 +229,7 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-3xl md:text-4xl font-bold mb-8">
-              【大募集！】あと5〜6名、一緒に楽しみませんか？
+              【宿泊参加表明は7/5（土）まで】あと数名参加可能！気になる方はDMを✉️
             </h2>
             
             <div className="bg-white/90 text-gray-800 rounded-2xl p-8 shadow-lg backdrop-blur-sm mb-8">
