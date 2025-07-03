@@ -183,7 +183,7 @@ export default function Home() {
       <section className="py-12 md:py-16 bg-gradient-to-b from-blue-50 to-purple-50">
         <div className="container mx-auto px-4">
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-800">
-            🙋‍♂️参加予定メンバー (6/25時点)
+            🙋‍♂️参加予定メンバー (7/4時点)
           </h2>
           
           <div className="max-w-4xl mx-auto">
