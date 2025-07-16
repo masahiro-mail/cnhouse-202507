@@ -7,13 +7,6 @@
     "uploadedAt": "2025-07-12T10:00:00Z"
   },
   {
-    "id": 2,
-    "filename": "IMG_4271.JPG",
-    "alt": "合宿の様子",
-    "caption": "CNP合宿の思い出",
-    "uploadedAt": "2025-07-12T10:30:00Z"
-  },
-  {
     "id": 3,
     "filename": "IMG_4275.JPG",
     "alt": "合宿の様子",
@@ -21,25 +14,11 @@
     "uploadedAt": "2025-07-12T11:00:00Z"
   },
   {
-    "id": 4,
-    "filename": "IMG_4281.JPG",
-    "alt": "合宿の様子",
-    "caption": "CNP合宿の思い出",
-    "uploadedAt": "2025-07-12T11:30:00Z"
-  },
-  {
     "id": 5,
     "filename": "IMG_4286.JPG",
     "alt": "合宿の様子",
     "caption": "CNP合宿の思い出",
     "uploadedAt": "2025-07-12T12:00:00Z"
-  },
-  {
-    "id": 6,
-    "filename": "IMG_4291.JPG",
-    "alt": "合宿の様子",
-    "caption": "CNP合宿の思い出",
-    "uploadedAt": "2025-07-12T12:30:00Z"
   },
   {
     "id": 7,
@@ -70,13 +49,6 @@
     "uploadedAt": "2025-07-12T14:30:00Z"
   },
   {
-    "id": 11,
-    "filename": "IMG_4303.JPG",
-    "alt": "合宿の様子",
-    "caption": "CNP合宿の思い出",
-    "uploadedAt": "2025-07-12T15:00:00Z"
-  },
-  {
     "id": 12,
     "filename": "IMG_4305.JPG",
     "alt": "合宿の様子",
@@ -89,13 +61,6 @@
     "alt": "合宿の様子",
     "caption": "CNP合宿の思い出",
     "uploadedAt": "2025-07-12T16:00:00Z"
-  },
-  {
-    "id": 14,
-    "filename": "IMG_4314.JPG",
-    "alt": "合宿の様子",
-    "caption": "CNP合宿の思い出",
-    "uploadedAt": "2025-07-12T16:30:00Z"
   },
   {
     "id": 15,
@@ -124,13 +89,6 @@
     "alt": "合宿の様子",
     "caption": "CNP合宿の思い出",
     "uploadedAt": "2025-07-12T18:30:00Z"
-  },
-  {
-    "id": 19,
-    "filename": "IMG_4325.JPG",
-    "alt": "合宿の様子",
-    "caption": "CNP合宿の思い出",
-    "uploadedAt": "2025-07-12T19:00:00Z"
   },
   {
     "id": 20,
@@ -208,13 +166,6 @@
     "alt": "合宿の様子",
     "caption": "CNP合宿の思い出",
     "uploadedAt": "2025-07-13T00:30:00Z"
-  },
-  {
-    "id": 31,
-    "filename": "IMG_4365.JPG",
-    "alt": "合宿の様子",
-    "caption": "CNP合宿の思い出",
-    "uploadedAt": "2025-07-13T01:00:00Z"
   },
   {
     "id": 32,
