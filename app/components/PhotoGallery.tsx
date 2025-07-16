@@ -65,7 +65,7 @@ interface Photo {
 }
 
 // Fisher-Yates シャッフルアルゴリズムでランダム化
-const shuffleArray = <T>(array: T[]): T[] => {
+const shuffleArray = (array: Photo[]): Photo[] => {
   const shuffled = [...array];
   for (let i = shuffled.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));

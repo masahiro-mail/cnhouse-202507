@@ -56,3 +56,16 @@
  GET /favicon.ico?favicon.45db1c09.ico 200 in 294ms
  GET /favicon.ico?favicon.45db1c09.ico 200 in 284ms
  GET /favicon.ico?favicon.45db1c09.ico 200 in 370ms
+ ✓ Compiled in 620ms
+ ✓ Compiled in 402ms
+ ✓ Compiled / in 70ms
+ GET / 200 in 226ms
+ GET / 200 in 209ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 328ms
+ ⚠ Found a change in next.config.ts. Restarting the server to apply the changes...
+   ▲ Next.js 15.3.4 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://0.0.0.0:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.8s

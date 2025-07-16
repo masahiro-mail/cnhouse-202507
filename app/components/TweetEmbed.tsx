@@ -40,7 +40,7 @@ export default function TweetEmbed({ tweetUrl, postId }: TweetEmbedProps) {
         ];
         
         let response;
-        let data: OEmbedResponse;
+        let data: OEmbedResponse | null = null;
         
         for (const proxyUrl of proxyUrls) {
           try {

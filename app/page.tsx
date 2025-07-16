@@ -3,6 +3,17 @@
 import React, { useEffect } from 'react';
 import PhotoGallery from './components/PhotoGallery';
 
+// Twitter型定義
+declare global {
+  interface Window {
+    twttr?: {
+      widgets: {
+        load: () => void;
+      };
+    };
+  }
+}
+
 export default function Home() {
   useEffect(() => {
     // 既存のスクリプトをチェック
